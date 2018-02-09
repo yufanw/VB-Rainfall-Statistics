@@ -1,0 +1,11 @@
+c:\users\yuf\documents\visual studio 2017\Projects\WANGRainfallStatistics\WANGRainfallStatistics\bin\Debug\WANGRainfallStatistics.exe.config
+c:\users\yuf\documents\visual studio 2017\Projects\WANGRainfallStatistics\WANGRainfallStatistics\bin\Debug\WANGRainfallStatistics.exe
+c:\users\yuf\documents\visual studio 2017\Projects\WANGRainfallStatistics\WANGRainfallStatistics\bin\Debug\WANGRainfallStatistics.pdb
+c:\users\yuf\documents\visual studio 2017\Projects\WANGRainfallStatistics\WANGRainfallStatistics\bin\Debug\WANGRainfallStatistics.xml
+c:\users\yuf\documents\visual studio 2017\Projects\WANGRainfallStatistics\WANGRainfallStatistics\obj\Debug\WANGRainfallStatistics.vbprojResolveAssemblyReference.cache
+c:\users\yuf\documents\visual studio 2017\Projects\WANGRainfallStatistics\WANGRainfallStatistics\obj\Debug\WANGRainfallStatistics.frmRainfallStatistics.resources
+c:\users\yuf\documents\visual studio 2017\Projects\WANGRainfallStatistics\WANGRainfallStatistics\obj\Debug\WANGRainfallStatistics.Resources.resources
+c:\users\yuf\documents\visual studio 2017\Projects\WANGRainfallStatistics\WANGRainfallStatistics\obj\Debug\WANGRainfallStatistics.vbproj.GenerateResource.Cache
+c:\users\yuf\documents\visual studio 2017\Projects\WANGRainfallStatistics\WANGRainfallStatistics\obj\Debug\WANGRainfallStatistics.exe
+c:\users\yuf\documents\visual studio 2017\Projects\WANGRainfallStatistics\WANGRainfallStatistics\obj\Debug\WANGRainfallStatistics.xml
+c:\users\yuf\documents\visual studio 2017\Projects\WANGRainfallStatistics\WANGRainfallStatistics\obj\Debug\WANGRainfallStatistics.pdb
